@@ -1,1 +1,0 @@
-# poc-clean-arch-example
